@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/mindicity/wkx-ts.git"
   },
-  "keywords": [],
+  "keywords": ["WKT","WKB","EWKT","EWKB","TWKB","GeoJSON","geometry"],
   "author": "l.balotta@mindicity.com",
   "license": "EUPL-1.2",
   "description": "A WKT/WKB/EWKT/EWKB/TWKB/GeoJSON parser and serializer",
